@@ -1,39 +1,30 @@
-# lms
-Library Management System (LMS) A web-based Library Management System designed to manage books, users, issuing, and returns efficiently. Built as an academic project using modern web technologies.
-# 📚 Library Management System (LMS)
+# Library Management System
 
-The **Library Management System (LMS)** is a web-based application developed to simplify and automate library operations such as managing books, users, issuing books, and tracking returns. This project is created as an academic project to demonstrate practical implementation of web development concepts.
+This is a Library Management System developed as an academic project using Microsoft Visual Studio.
 
----
+## Project Overview
+The application is designed to manage library records such as books, students, and issue/return details in a digital format. It helps reduce manual work and improves accuracy and efficiency in library management.
 
-## ✨ Features
+## Project Type
+Desktop Application / Educational Management System
 
-- Add, update, and delete book records
-- Manage student/user details
-- Issue and return books
-- Search and view available books
-- User-friendly and responsive interface
-- Organized and structured codebase
+## Technologies Used
+- Microsoft Visual Studio
+- Programming Language: C# (.NET)
+- Database: MySQL / SQL Server
+- Microsoft Word (for documentation)
 
----
+## Database Access
+The system uses a database to store and manage all library-related data including book details, student information, and transaction records.  
+Database connectivity is handled through the application using a configured connection string.
 
-## 🛠️ Technologies Used
+## How to Run the Project
+1. Open the `.sln` file using Microsoft Visual Studio.
+2. Configure the database connection if required.
+3. Build and run the project from Visual Studio.
 
-- HTML
-- CSS / Tailwind CSS
-- JavaScript  
-- PHP *(if applicable)*
-- MySQL *(if applicable)*
+## Note
+This project is not a web-based application. Therefore, HTML, CSS, and JavaScript files are not included in this repository.
 
----
-
-## 🚀 How to Run the Project
-
-### 🔹 For Frontend (HTML / CSS / JS only)
-1. Download or clone the repository  
-2. Open `index.html` in any modern web browser  
-3. Project will run locally
-
-### 🔹 For PHP / MySQL Based LMS
-1. Install **XAMPP / WAMP**
-2. Copy the project folder to:
+## Author
+Anik Ghosh
